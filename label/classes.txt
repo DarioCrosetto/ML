@@ -1,0 +1,4 @@
+morte
+crescita
+guarigione
+malattia
